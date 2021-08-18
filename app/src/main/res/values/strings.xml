@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My Application1</string>
+    <string name="txt1">Input text:</string>
+    <string name="btn1">Press me</string>
+    <string name="hint_text_1">Input text</string>
+    <string name="on_off">On/Off</string>
+    <string name="use_properties">Use properties</string>
+    <string name="btn2">Open second activity</string>
+    <string name="txt_hint">Insert any text</string>
+    <string name="insert_fio_hint">Insert FIO</string>
+    <string name="insert_phone_hint">Insert phone</string>
+    <string name="insert_number_hint">Insert number</string>
+    <string name="insert_password_hint">Insert txt password</string>
+    <string name="insert_num_password_hint">Insert num password</string>
+    <string name="insert_email">Insert email</string>
+    <string name="insert_date_time">Insert date</string>
 </resources>
